@@ -16,7 +16,7 @@ additional advantages:
 - It can provide low-complex multi-view video coding and rate-distortion optimized video multiplexing.
 - It   supports   real-time   joint   source-channel   coding for  video  communication  over  channels  with  packet losses,  which  makes  it  efﬁcient,  for  example,  for real-time vehicle-to-vehicle communications.
 - It can be also improved due to learned wavelet transform approaches, such as learned motion-compensated
-temporal  ﬁltering  [10]  and  learned  wavelet  subbands compression [11].
+temporal  ﬁltering  and  learned  wavelet  subbands compression.
 
 The  main  disadvantage  of  the  3-D  DWT  video  codec  is  its  limited  rate-distortion  performance
 compared to H.264/AVC, especially, at video sequences with medium  or  high  motion  level.  In  order  to  overcome  this
@@ -42,7 +42,11 @@ or other program optimization techniques. Table II shows that the proposed 3-D D
 
 ## Reference
 [1] E.Belyaev, K.Egiazarian, M.Gabbouj, A Low-Complexity Bit-Plane Entropy Coding and Rate Control for 3-D DWT Based Video Coding, IEEE Transactions on Multimedia, 2013. 
+
 [2] E.Belyaev, A.Vinel, A.Surak, M.Gabbouj, M.Jonsson, K.Egiazarian, Robust vehicle-to-infrastructure video transmission for road surveillance applications, IEEE Transactions on Vehicular Technology, 2015. 
+
 [3] Belyaev, K. Egiazarian, M. Gabbouj, and K. Liu, A low-complexity joint source-channel video coding for 3-d dwt codec, Journal of Communications, 2013. 
+
 [4] E. Belyaev, S. Forchhammer, and M. Codreanu, Error concealment for 3-d dwt based video codec using iterative thresholding, IEEE Communications Letters, 2017.
+
 [5] E. Belyaev, An Efficient Soft Decoding for Wavelet Video Compression with Global Motion Compensation, Digital Signal Processing and Its Applications — DSPA-2025, 2025. 
