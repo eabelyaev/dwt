@@ -33,7 +33,7 @@ experiments for Full HD frame resolution.
 According  to  Bjøntegaard  BD-Rate  metric,  the  proposed 3-D DWT codec with ISTA provides an average 27.9%
 and 12.1% bit rate savings, in comparison with ultrafast and superfast  presets,  respectively,  and  only  5.9%  worse  than
 medium  preset.  
-![Rate-distortion comparison](./doc/Figure1.png)
+![Rate-distortion comparison](./doc/Figure2.png)
 
 Table I shows encoding complexity comparison measured in number of frames which can be encoded in one second with
 CPU AMD Ryzen 9, 4.00 GHz. In all cases, the encoding speed was measured without any use of assemblers, threads,
